@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  -name: Github Community forum
+   url: https://github.community/
+   about: please ask and answer question here
+  -name: Github Secuurity Bug Bounty
+   url: https://bounty.github.com/
+   about: please report security vulnerabilities here.
